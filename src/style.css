@@ -1,0 +1,9 @@
+:root {
+   --primary-color: #e363a3;
+   --secondary-color:#f8e4f6;
+   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+body {
+    background-color: var(--secondary-color);
+}
